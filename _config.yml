@@ -35,10 +35,6 @@ social_username:
 # Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
 theme_color: light
 
-# Custom css
-fonts:
-  font-family: Helvetica Neue, sans-serif;
-
 # Seo
 tagline: Computational Biology - Cancer Research - Machine learning
 
