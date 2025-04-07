@@ -37,7 +37,7 @@ theme_color: light
 
 # Custom css
 fonts:
-  font-family: Georgia, serif;
+  font-family: Helvetica Neue, sans-serif;
 
 # Seo
 tagline: Computational Biology - Cancer Research - Machine learning
