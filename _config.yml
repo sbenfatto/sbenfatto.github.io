@@ -63,6 +63,11 @@ header_pages:
   - projects.md
   - publications.md
   - cv.md
+
+# Custom CSS
+extra:
+  styles:
+    - "_sass/minima/custom-variables.scss"
 #
 #   Set to `true` to show excerpts on the homepage.
 #   show_excerpts: false
