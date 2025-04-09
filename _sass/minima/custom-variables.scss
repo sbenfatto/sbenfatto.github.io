@@ -1,4 +1,4 @@
-/* custom.css */
+/* _custom.scss */
 
 /* Global reset to remove padding and margin */
 * {
@@ -20,10 +20,10 @@ body {
 /* Main content area (left side) */
 .main-content {
   padding: 2rem;
-  max-width: 75%; /* Adjust to give space for the sidebar */
+  max-width: 75%; // Adjust to give space for the sidebar
   margin: 0;
   flex: 1;
-  order: 1; /* Make sure content stays to the left */
+  order: 1; // Make sure content stays to the left
 }
 
 /* Navigation (moved to the right) */
@@ -31,7 +31,7 @@ body {
   position: fixed;
   top: 0;
   right: 0;
-  width: 250px; /* Set a fixed width for the navigation */
+  width: 250px; // Set a fixed width for the navigation
   height: 100vh;
   background-color: #f7f7f7;
   box-shadow: -2px 0 5px rgba(0, 0, 0, 0.1);
