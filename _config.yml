@@ -61,9 +61,9 @@ minima:
 #     the order they should be rendered.
 header_pages:
   - about.md
-  - projects.md
-  - publications.md
-  - cv.md
+#  - projects.md
+#  - publications.md
+#  - cv.md
 #
 #   Set to `true` to show excerpts on the homepage.
 #   show_excerpts: false
