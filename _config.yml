@@ -63,7 +63,7 @@ header_pages:
   - about.md
 #  - projects.md
 #  - publications.md
-#  - cv.md
+  - cv.md
 #
 #   Set to `true` to show excerpts on the homepage.
 #   show_excerpts: false
