@@ -1,12 +1,12 @@
 ---
+layout: page
 title: CV
 ---
 
 ## Research Experience
 
-2022-present: **Research Fellow**, Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.  
-
-   Affiliated with Broad Institute of MIT and Harvard, Cambridge, MA, USA and Harvard Medical School, Boston, MA, USA.
+2022-present: **Research Fellow**, Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.
+Affiliated with Broad Institute of MIT and Harvard, Cambridge, MA, USA and Harvard Medical School, Boston, MA, USA.
 
 2021- 2022: **Staff Scientist**, BioMed X Institute, Heidelberg, Germany.
 
