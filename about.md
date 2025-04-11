@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![salvo](/img/salvo.jpg){:height="350px" width="350px"}
+![salvo](/img/salvo.jpg){:height="300px" width="300px"}
 
 ## Bio
 
