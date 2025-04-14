@@ -86,3 +86,7 @@ header_pages:
 #     - title: Jekyll at X (formerly Twitter)
 #       icon: x-twitter
 #       url: "https://x.com/jekyllrb"
+
+# Google Analytics
+google_analytics: G-8FSZTNP7GC
+
