@@ -7,4 +7,4 @@ For a complete list please see my [Google Scholar](https://scholar.google.com/ci
 
 ## Peer reviewed articles
 
-{% include publications link=true %}
+{% include publications link=true style="mla" %}
